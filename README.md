@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Tobias Diaco – Full Stack Developer con ideas propias y muchas ganas de crear 💻
+# 👋 ¡Hola! Soy Tobias Diaco – Full Stack Developer 💻
 
 "Lo que me interesa me consume. No me quedo en la superficie, siempre quiero entender completamente para poder dar lo mejor de mí."
 
