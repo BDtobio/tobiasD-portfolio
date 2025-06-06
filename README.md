@@ -4,7 +4,7 @@
 
 ## 🧠 Sobre mí
 
-Hola, soy Tobias Diaco 👋. Soy desarrollador full stack, de esos que disfrutan tanto armando una API como dándole estilo a una interfaz. Me gusta construir cosas que funcionen bien, pero también que tengan personalidad.  
+ Soy desarrollador full stack, de esos que disfrutan tanto armando una API como dándole estilo a una interfaz. Me gusta construir cosas que funcionen bien, pero también que tengan personalidad.  
 
 Estoy siempre aprendiendo algo nuevo, ya sea una herramienta, una librería o una forma distinta de resolver problemas. Me gusta el código limpio, los diseños que transmiten y los proyectos que mezclan lo técnico con lo creativo.
 
