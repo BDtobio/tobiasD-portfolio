@@ -14,16 +14,22 @@ Si un proyecto me entusiasma, puedo pasar horas metido sin darme cuenta (y sí, 
 
 ---
 
-🚧 Proyectos en curso
-Proyecto	Descripción	Stack usado	Estado
-Z33 Fits	Tienda de ropa con estética urbana, donde diseño y desarrollo se combinan para ofrecer una experiencia moderna e intuitiva.	Next.js · TypeScript · TailwindCSS · MongoDB	🔧 En desarrollo
-COMPLEJO LO+	Plataforma web para un complejo deportivo. Permite visualizar canchas, eventos y reservar turnos para partidos de fútbol.	Next.js · TypeScript · TailwindCSS · MongoDB	🔧 En desarrollo
+## 🚧 Proyectos en curso
 
-✅ Proyectos terminados
-Proyecto	Descripción	Stack usado	Estado
-Apple Store Clone	Clon funcional de la tienda de Apple. Se pueden explorar productos y agregarlos al carrito (sin integración de pago ni envío).	Next.js · TypeScript · PostgreSQL · ESLint	✅ Finalizado
-Italy Tasty	Sitio web de un restaurante italiano que permite a los usuarios realizar reservas online. Estilizado con CSS Modules.	React · TypeScript · CSS Modules	✅ Finalizado
-Nightfall	Plataforma web para una discoteca en España. Permite explorar eventos, conocer artistas y comprar entradas.	Next.js · TypeScript · MongoDB · Styled Components	✅ Deploy en Vercel
+| Proyecto        | Descripción                                                                                                                                     | Stack usado                                      | Estado           |
+|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|------------------|
+| **Z33 Fits**    | Tienda de ropa con estética urbana, donde diseño y desarrollo se combinan para ofrecer una experiencia moderna e intuitiva.                     | Next.js · TypeScript · TailwindCSS · MongoDB     | 🔧 En desarrollo |
+| **COMPLEJO LO+**| Plataforma web para un complejo deportivo. Permite visualizar canchas, eventos y reservar turnos para partidos de fútbol.                       | Next.js · TypeScript · TailwindCSS · MongoDB     | 🔧 En desarrollo |
+
+---
+
+## ✅ Proyectos terminados
+
+| Proyecto            | Descripción                                                                                                                                      | Stack usado                                              | Estado               |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------|
+| **Apple Store Clone** | Clon funcional de la tienda de Apple. Se pueden explorar productos y agregarlos al carrito (sin integración de pago ni envío).              | Next.js · TypeScript · PostgreSQL · ESLint               | ✅ Finalizado        |
+| **Italy Tasty**     | Sitio web de un restaurante italiano que permite a los usuarios realizar reservas online. Estilizado con CSS Modules.                            | React · TypeScript · CSS Modules                         | ✅ Finalizado        |
+| **Nightfall**       | Plataforma web para una discoteca en España. Permite explorar eventos, conocer artistas y comprar entradas.                                      | Next.js · TypeScript · MongoDB · Styled Components       | ✅ Deploy en Vercel  |
 
 
 ---
